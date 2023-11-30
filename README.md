@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert Hsu
 - 👀 I’m interested in Full-Stack Web Developement
-- 🌱 I’m currently working on Java/Kotlin, Javascript, Python, Go
+- 🌱 I’m currently working on Java/Kotlin, Javascript, Python
 - 💞️ I’m looking to collaborate on smart and top engineering team!
 - 📫 How to reach me: Linkedin, Github, and email
 
